@@ -1,2 +1,1 @@
- simple pipeline for Software Engineering Module  repo forked from #github-action-maven-example-start
-
+ simple pipeline for Software Engineering Module using maven Junit, redis, jacoco, docker, aws 
